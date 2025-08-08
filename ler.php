@@ -1,5 +1,4 @@
 <?php
-// Listagem com erro de lógica (ordem incorreta e falta de conexão)
 include("db.php");
 
 $sql = "SELECT * FROM usuarios"; 
