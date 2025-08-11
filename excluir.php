@@ -1,5 +1,4 @@
 <?php
-// Exclusão com risco de SQL Injection e sem confirmação
 include("db.php");
 
 $id = $_GET["id"];
